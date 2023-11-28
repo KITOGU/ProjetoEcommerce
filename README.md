@@ -1,5 +1,6 @@
 # ProjetoEcommerce
 Equipe
+
 Nome: Gabriel Alves Pacheco.
 
 Nome: Bruno Santos Pereira da Silva.
